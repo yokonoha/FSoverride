@@ -4,9 +4,9 @@ FSoverride -フリーでスマートな線形スタイルのスタイルシー�
 横茶横葉のサイト(Rev.11.0[2025/11/12])で使用している、メディアクエリに対応したFSLinearCSSの完全上位互換スタイルシート  
 <img width="1332" height="858" alt="image" src="https://github.com/user-attachments/assets/b7893d97-8aae-4c14-8cb0-3dffe74ad5c1" />  
 FSoverrideは商用非商用問わずどなたでも簡単に利用できる**無料のスタイルシート**です。  
+せっかく以前にFSLinearというCSSを作ったのに、後からそれを上書きしてしまうような上位互換CSSを作ってしまったので"Override"です。
 このCSS最大の長所は、どの画面スケールのデバイスでも崩れることなく表示させることが出来る点です。  
 サイトを**クールな雰囲気**にデコレーションできます。  
-
 ※本CSSはFSLinearを大幅に改変したため、<a href="https://github.com/yokonoha/Caffeine_CSS">CaffeineCSS</a>の互換スタイルシートではありません。   
 
 また、FSoverrideはテンプレートを使用しない場合はうまく利用できないタイプのCSSです。  
