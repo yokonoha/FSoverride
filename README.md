@@ -28,4 +28,28 @@ Or you can write this in English
 ```
 MITライセンスを選択する場合はそちらのライセンス条文にある指示に従ってご利用ください。  
 ************************************  
+## 現行の横茶横葉のサイトに似せるには?  
+以下を追記すると恐らく似せられます。(未検証)  
+```append.css
+    *
+    {
+        color: #423c3c;
+    }
+    body{
+        background-color: #eaf0f1;
+
+    }
+    .A, .B, .C, .D, .E, .F, .G, .H, .I, .J, .K, .L, .M, .N, .O, .P, .Q, .R, .S, .T, .U, .V, .W, .X, .Y, .Z, .sidebar-box {
+    background-color: #fbfbfb;
+}
+footer{
+    background-color: #f0f2ef;
+}
+header{
+  background-color: #e8e8e8;
+  a{
+   color: #111; 
+  }
+```
+************************************  
 ©2025 Y.Yokoha(横茶横葉) All Rights Reserved.  
